@@ -63,6 +63,4 @@
             <h1>mektep krash</h1>
         </a>
     </div>  
-</body> 
 
-</html>
