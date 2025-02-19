@@ -1,5 +1,4 @@
 # ozod-history
-<!DOCTYPE html>
 <html>
 <head>
 <title>Ozodbekni hoyoti </title>
