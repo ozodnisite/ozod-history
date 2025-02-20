@@ -48,7 +48,8 @@
                      bergani ozod uchin katta baht, ozodsaqa bola hech qaerda ozod br qizni orqasidan borip u qiz ozodga ustalba ushlatip ketti sonimen barligi 
                      bitti
     
-<h1>Estalik</h1>
+<h1>Estaliklar ↓
+</h1>
     
   <div>
 
