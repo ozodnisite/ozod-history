@@ -52,14 +52,14 @@
     
   <div>
 
-      <a href="avganskiy.jpeg"  >
+    <a href="avganskiy.jpeg"  >
           <h1>avgan boes</h1> 
         </a> 
         
-        <a href="korona.jpeg">
+    <a href="korona.jpeg">
             <h1>korol</h1>
         </a>
-        <a href="krash.jpeg">
+    <a href="krash.jpeg">
             <h1>mektep krash</h1>
         </a>
     </div>  
