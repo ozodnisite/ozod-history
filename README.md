@@ -24,7 +24,7 @@
     <how>
         <boha>
             
-            <img src="images/5e050426-1da1-42c0-b78c-b1c17515e6cd.jpg" alt="sexy boy" width="600" height="800">
+            <img src="5e050426-1da1-42c0-b78c-b1c17515e6cd.jpg" alt="sexy boy" width="600" height="800">
         </boha>
     <h1>
         ozod dostimiz
@@ -56,10 +56,10 @@
           <h1>avgan boes</h1> 
         </a> 
         
-        <a href="images/korona.jpeg">
+        <a href="korona.jpeg">
             <h1>korol</h1>
         </a>
-        <a href="images/krash.jpeg">
+        <a href="krash.jpeg">
             <h1>mektep krash</h1>
         </a>
     </div>  
