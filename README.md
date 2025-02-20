@@ -62,5 +62,8 @@
     <a href="krash.jpeg">
             <h1>mektep krash</h1>
         </a>
+    <a href="orig.webp">
+            <h1>bolaligi</h1>
+        </a>    
     </div>  
 
