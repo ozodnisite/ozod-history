@@ -65,5 +65,8 @@
     <a href="orig.webp">
             <h1>bolaligi</h1>
         </a>    
+    <a href="u okna.jpeg">
+            <h1>u okna</h1>
+        </a>
     </div>  
 
