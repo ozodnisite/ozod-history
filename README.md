@@ -52,7 +52,7 @@
     
   <div>
 
-      <a href="images/avganskiy.jpeg"  >
+      <a href="avganskiy.jpeg"  >
           <h1>avgan boes</h1> 
         </a> 
         
