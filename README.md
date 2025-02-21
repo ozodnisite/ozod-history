@@ -67,7 +67,7 @@
             <h1>bolaligi</h1>
         </a>    
     <a href="u okna.jpeg">
-            <h1>u okna</h1>
+            <h1>u zerkalo</h1>
         </a>
     <a href="saset.mp4">
             <h1>saset</h1>
